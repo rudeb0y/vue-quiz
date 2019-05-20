@@ -1,4 +1,5 @@
 # vue-quiz
+A basic quiz app that calls 10 questions randomly from an API. Built from the following youtube [tutorial.](https://www.youtube.com/watch?v=4deVCNJq3qc)
 
 ## Project setup
 ```
