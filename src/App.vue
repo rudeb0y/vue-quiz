@@ -7,7 +7,7 @@
     <b-container class="bv-exmaple-row">
       <b-row>
         <b-col sm="6" offset="3">
-          <question-box
+          <QuestionBox
             v-if="questions.length"
             :currentQuestion="questions[index]"
             :next="next"

@@ -1,7 +1,7 @@
 <template>
     <b-jumbotron>
       <template slot="lead">
-        {{ currentQuestion.question }}
+        <!-- <span v-html="currentQuestion.question"></span> -->
       </template>
 
 
